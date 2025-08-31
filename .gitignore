@@ -79,3 +79,7 @@ Thumbs.db
 # Ignore autocomplete and snippet outputs
 autocomplete_dicts/*.bak
 snippets/*.bak
+
+# Ignore temporary files
+*.tmp
+*session*

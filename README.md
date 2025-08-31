@@ -84,17 +84,15 @@
 | Shortcut                | Action                          |
 |-------------------------|---------------------------------|
 | Ctrl+Z / Ctrl+Y         | Undo / Redo                     |
-| Ctrl+S                  | Save now                        |
 | Shift+Wheel             | Horizontal scroll               |
 | Right-click on text     | Font/color/highlight menu       |
-| Right-click on image    | Change image size (context)     |
 | Ctrl+V                  | Paste image                     |
 | Ctrl+F / F3             | Search                          |
 | Ctrl+H                  | Replace                         |
 | Ctrl+Q                  | Exit                            |
 | Ctrl+Alt+Arrows         | Move window                     |
 | Alt+Arrows              | Change the window transparency  |
-| [_]                     | Insert interactive checkbox     |
+| [ ]                     | Insert interactive checkbox     |
 
 ---
 
